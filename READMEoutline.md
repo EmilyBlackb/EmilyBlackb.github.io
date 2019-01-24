@@ -29,8 +29,8 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 **_also:_**
-[x] list A complete
-[ ] In progress
+1. [x] list A complete
+2. [ ] In progress
 
 relative link: just filename.md
 workaround: blob/master/filename.md
